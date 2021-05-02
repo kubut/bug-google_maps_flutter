@@ -48,7 +48,7 @@ class MyApp extends StatelessWidget {
     ));
 
     markers.add(Marker(
-        markerId: MarkerId('3'),
+        markerId: MarkerId('4'),
         position: LatLng(51.0664789, 17.0330163),
         infoWindow: InfoWindow(title: 'normal marker (4)')
     ));
